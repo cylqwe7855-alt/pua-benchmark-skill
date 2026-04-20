@@ -1,0 +1,32 @@
+{
+  "name": "pua-benchmark",
+  "version": "1.0.0",
+  "description": "PUA 行为检测与反制 - Claude Code Skill（基于72篇学术论文蒸馏）",
+  "bin": {
+    "pua-benchmark": "./bin/install.mjs"
+  },
+  "files": [
+    "bin/",
+    "skill/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude-code-skill",
+    "pua",
+    "pua-detection",
+    "psychology",
+    "manipulation-detection",
+    "gaslighting",
+    "emotional-abuse",
+    "mental-health"
+  ],
+  "author": "cross-road",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cross-road/pua-benchmark"
+  },
+  "homepage": "https://github.com/cross-road/pua-benchmark#readme"
+}
