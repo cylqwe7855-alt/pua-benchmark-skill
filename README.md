@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npx pua-benchmark
+npx github:cylqwe7855-alt/pua-benchmark
 ```
 
 安装完成后，在 Claude Code 中输入 `/pua-benchmark` 或直接说"帮我分析这段对话是不是 PUA" 即可使用。

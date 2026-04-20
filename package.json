@@ -1,9 +1,9 @@
 {
-  "name": "pua-benchmark",
+  "name": "pua-benchmark-skill",
   "version": "1.0.0",
   "description": "PUA 行为检测与反制 - Claude Code Skill（基于72篇学术论文蒸馏）",
   "bin": {
-    "pua-benchmark": "./bin/install.mjs"
+    "pua-benchmark-skill": "./bin/install.mjs"
   },
   "files": [
     "bin/",
